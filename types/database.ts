@@ -1,0 +1,1 @@
+export type gender_type = 'male' | 'female' | 'other';
